@@ -53,8 +53,11 @@ I care a lot about security (I've seen enough to not care about it). I'm big fan
 ###My projects
 
 [Responsible WP theme framework](https://github.com/jakub-klapka/responsible-wp-framework)
+
 [Secret file manager WP plugin](https://github.com/jakub-klapka/secret-file-manager)
+
 [Image Lightbox WP plugin](https://github.com/jakub-klapka/image-lightbox-wp-plugin)
+
 [E-mail obfuscator WP plugin](https://github.com/jakub-klapka/email-obfuscator-wp-plugin)
 
 ###My talks
