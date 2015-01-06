@@ -1,6 +1,6 @@
 #Jakub Klapka - Developer Profile
 
-<img src="//placehold.it/150x150" align="right" style="float: right; margin: 0 0 1em 1em">
+<img src="https://raw.githubusercontent.com/jakub-klapka/profile/master/assets/profile_image.jpg" align="right">
 
 - Years of experience in full stack web development
 - Made dozens of complete websites
