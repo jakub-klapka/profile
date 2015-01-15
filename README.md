@@ -73,6 +73,7 @@ Roughly in chronological order. Be aware, that I had no say in most of the graph
 - [Auto-veteran.com](https://www.auto-veteran.com) [[Frontend code](https://github.com/jakub-klapka/auto-veteran-html)] [[Backend code](https://github.com/jakub-klapka/auto-veteran-wp)]
 - [Oldřich Tichý](https://www.oldrichtichy.cz) [[Static site code](https://github.com/jakub-klapka/oldrich-tichy)]
 - [DC-9.eu](http://www.dc-9.eu) [[Code](https://github.com/jakub-klapka/dc9-html-wp)]
+- [Ammolite.cz Splash Screen](http://www.ammolite.cz) [[Frontend code](https://github.com/jakub-klapka/ammolite-hp-html)]
 - [Pavel Šťastný](https://www.pavelstastny.cz/)
 - [Appizz universal HTML template](http://themeforest.net/item/appizz-mobile-app-showcase-html-template/full_screen_preview/4902563)
 - [Asisteam.cz](http://www.asisteam.cz) [[Static site code](https://github.com/jakub-klapka/asisteam)]
