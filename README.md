@@ -10,13 +10,13 @@
 
 I'm freelance website developer for several years. My work typically include whole stack beginning at completed graphic design and ending with fully working website on server with customized user administration. I tend to use lots of custom-made code, as I'm very interested in website performance and security. I'm aware, that this could sometimes lead to longer work, but I'm convinced, that it pays of in long run. I want my work to last for some time and be future-proof (which is kind of impossible in web industry), I don't like quick and dirty solutions, handed over and never heard of again.
 
-Most of the work I've done are "simple" presentational websites. I don't accept jobs, where I'm not sure, that I can deliver well performing, secure and maintainable code.
+Most of the work I've done on my own are "simple" presentational websites. I don't accept jobs, where I'm not sure, that I can deliver well performing, secure and maintainable code. But I'm happy to work on larger scale projects in a team.
 
 To this day, I've made several dozens of fully working websites and I'm also offering services to maintain technical side of websites. Besides that, I did lot of short-term work like removing malware from websites, securing them, optimizing performance or SEO, writing custom plugins and so on.
 
 ##Bio
 
-Actually pretty simple. Born 1989, basic school, high school, university. Started freelancing during university study and ended with that.
+Actually pretty simple. Born 1989, basic school, high school, university. Started freelancing during university and ended with that.
 I have some experience with organizing events for foreigners.
 
 ##Frontend skills
@@ -32,13 +32,12 @@ I'm keen on frontend performance. I don't believe, that RWD has to be bloated (b
 
 I'm able to write complex jQuery plugins, working with AJAX and using templates. I like separating concerns as much as possible, I don't want HTML code in JS.
 
-I'm big fan of those new build tools like Grunt and Gulp. If I don't need user administration, I build just generated static websites. It has so many advantages.
+I'm big fan of those new build tools like Grunt and Gulp. If I don't need user administration, I like to create just generated static website.
 
 ##Backend skills
 
 - PHP (OOP)
-- Wordpress (themes, plugins, security, performance)
-- Server setup (Apache, CDNs, SSL)
+- All around Wordpress (themes, plugins, security, performance, ...)
 
 For most of my backend work, I use Wordpress. It's giving me ability to have nice client-centric administration with completely custom frontend. I'm also very aware of WP disadvantages - especially in security. I have years of experience in securing Wordpress, monitoring attacks, cleaning hacked websites and so on.
 I'm trying to get best of community-made plugins but I know, that It often comes with performance concerns. So I usually choose plugins by quality of their code, than look of their frontend widget.
