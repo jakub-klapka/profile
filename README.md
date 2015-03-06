@@ -71,7 +71,7 @@ Roughly in chronological order. Be aware, that I had no say in most of the graph
 
 - [Lumiart.cz](https://www.lumiart.cz) [[Frontend code](https://github.com/jakub-klapka/lumiart-2013-html)] [[Backend code](https://github.com/jakub-klapka/lumiart-2013-wordpress-theme)]
 - VOŠPgS a SPgŠ Kroměříž [Work in progress] [[Frontend code](https://github.com/jakub-klapka/vossps-kromeriz-html)] [[Backend code](https://github.com/jakub-klapka/vossps-kromeriz-wp)]
-- [Auto-veteran.com](https://www.auto-veteran.com) [[Frontend code](https://github.com/jakub-klapka/auto-veteran-html)] [[Backend code](https://github.com/jakub-klapka/auto-veteran-wp)]
+- [Auto-veteran.com](https://www.auto-veteran.com) [[Frontend code](https://github.com/jakub-klapka/auto-veteran-html)]
 - [Oldřich Tichý](https://www.oldrichtichy.cz) [[Static site code](https://github.com/jakub-klapka/oldrich-tichy)]
 - [DC-9.eu](http://www.dc-9.eu) [[Code](https://github.com/jakub-klapka/dc9-html-wp)]
 - [Ammolite.cz Splash Screen](http://www.ammolite.cz) [[Frontend code](https://github.com/jakub-klapka/ammolite-hp-html)]
