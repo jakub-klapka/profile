@@ -36,7 +36,7 @@ I'm big fan of those new build tools like Grunt and Gulp. If I don't need user a
 
 ##Backend skills
 
-- PHP (OOP)
+- PHP (OOP, Twig)
 - All around Wordpress (themes, plugins, security, performance, ...)
 
 For most of my backend work, I use Wordpress. It's giving me ability to have nice client-centric administration with completely custom frontend. I'm also very aware of WP disadvantages - especially in security. I have years of experience in securing Wordpress, monitoring attacks, cleaning hacked websites and so on.
@@ -70,7 +70,7 @@ I care a lot about security (I've seen enough to not care about it). I'm big fan
 Roughly in chronological order. Be aware, that I had no say in most of the graphic designs here.
 
 - [Lumiart.cz](https://www.lumiart.cz) [[Frontend code](https://github.com/jakub-klapka/lumiart-2013-html)] [[Backend code](https://github.com/jakub-klapka/lumiart-2013-wordpress-theme)]
-- VOŠPgS a SPgŠ Kroměříž [Work in progress] [[Frontend code](https://github.com/jakub-klapka/vossps-kromeriz-html)] [[Backend code](https://github.com/jakub-klapka/vossps-kromeriz-wp)]
+- [VOŠPgS a SPgŠ Kroměříž](http://www.ped-km.cz/) [[Frontend code](https://github.com/jakub-klapka/vossps-kromeriz-html)] [[Backend code](https://github.com/jakub-klapka/vossps-kromeriz-wp)]
 - [Auto-veteran.com](https://www.auto-veteran.com) [[Frontend code](https://github.com/jakub-klapka/auto-veteran-html)]
 - [Oldřich Tichý](https://www.oldrichtichy.cz) [[Static site code](https://github.com/jakub-klapka/oldrich-tichy)]
 - [DC-9.eu](http://www.dc-9.eu) [[Code](https://github.com/jakub-klapka/dc9-html-wp)]
