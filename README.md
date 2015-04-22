@@ -36,7 +36,8 @@ I'm big fan of those new build tools like Grunt and Gulp. If I don't need user a
 
 ##Backend skills
 
-- PHP (OOP, Twig)
+- PHP (OOP)
+- Twig templating
 - All around Wordpress (themes, plugins, security, performance, ...)
 
 For most of my backend work, I use Wordpress. It's giving me ability to have nice client-centric administration with completely custom frontend. I'm also very aware of WP disadvantages - especially in security. I have years of experience in securing Wordpress, monitoring attacks, cleaning hacked websites and so on.
@@ -69,6 +70,7 @@ I care a lot about security (I've seen enough to not care about it). I'm big fan
 
 Roughly in chronological order. Be aware, that I had no say in most of the graphic designs here.
 
+- Linnette.cz redesign [Work in progress] [[Frontend code](https://github.com/jakub-klapka/linnette_2015-html)] [[Backend code](https://github.com/jakub-klapka/linnette_2015-wp)]
 - [Lumiart.cz](https://www.lumiart.cz) [[Frontend code](https://github.com/jakub-klapka/lumiart-2013-html)] [[Backend code](https://github.com/jakub-klapka/lumiart-2013-wordpress-theme)]
 - [VOŠPgS a SPgŠ Kroměříž](http://www.ped-km.cz/) [[Frontend code](https://github.com/jakub-klapka/vossps-kromeriz-html)] [[Backend code](https://github.com/jakub-klapka/vossps-kromeriz-wp)]
 - [Auto-veteran.com](https://www.auto-veteran.com) [[Frontend code](https://github.com/jakub-klapka/auto-veteran-html)]
